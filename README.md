@@ -14,4 +14,4 @@
 <div class="pricipal">
     <h2 class="titulo-centralizado">Sobre a barbearia do Tadeu</h2>
 
-    <p>Localizado mo coração da cidade a<strong>Barbearia do tadeu</srong> traz para
+    <p>Localizado mo coração da cidade a<strong>Barbearia do tadeu</srong> traz para o mercado o que há de melhor o
